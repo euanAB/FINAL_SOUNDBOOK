@@ -111,7 +111,7 @@ public class SoundBook {
         songs.add(new Song(18, "At least we tried", "Giveon", 9004));
         songs.add(new Song(19, "White Tee", "Marzipan", 9005));
         songs.add(new Song(20, "Interlude", "The Weeknd", 9006));
-        songs.add(new Song(21, "Oh Nah", "Wiz Khalifa", 500000000));
+        songs.add(new Song(21, "Oh Nah", "Wiz Khalifa", 500000001));
         Scanner in = new Scanner(System.in);
         printMenu();
         int choice = in.nextInt();
